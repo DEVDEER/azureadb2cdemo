@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ui", "Ui", "{EB5AA6E1-D827-4DEA-B35C-613A6D76B009}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ui.Web", "Ui.Web\Ui.Web.csproj", "{D3FA2F5E-B292-469C-A539-86F4019B2B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FA2F5E-B292-469C-A539-86F4019B2B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FA2F5E-B292-469C-A539-86F4019B2B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FA2F5E-B292-469C-A539-86F4019B2B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FA2F5E-B292-469C-A539-86F4019B2B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D3FA2F5E-B292-469C-A539-86F4019B2B2B} = {EB5AA6E1-D827-4DEA-B35C-613A6D76B009}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F603351-F7A5-484D-9E97-8964ADEEEEEB}
+	EndGlobalSection
+EndGlobal
